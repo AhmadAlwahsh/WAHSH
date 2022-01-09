@@ -22,8 +22,8 @@ setTimeout(function(){
         if (i > myText.length - 1) {
             clearInterval(typeWriter);
         }
-    },100)
-} , 200);
+    },0)
+} , 0);
 
 let header = document.getElementById("header");
 
