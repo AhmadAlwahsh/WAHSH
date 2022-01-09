@@ -24,7 +24,7 @@ setTimeout(function(){
         }
     },0)
 } , 0);
-
+/////
 let header = document.getElementById("header");
 
 window.onscroll = function(){
